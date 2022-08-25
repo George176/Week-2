@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--This is the start of the head-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holiday Adventures</title>
+</head>
+<!--This is the end of the head and the start of the body-->
+
+<body>
+    <!--List-->
+    <div id="List of Sections">
+        <h3>List of Sections</h3>
+        <ol>
+            <li><a href="#An Insider's Guide to Thailand">An Insider's Guide to Thailand</a></li>
+            <li><a href="#Getting Flight Tickets">Getting Flight Tickets </a></li>
+            <li><a href="#Getting Around">Getting Around </a> </li>
+            <li><a href="#Related Content">Related Content</a></li>
+        </ol>
+    </div>
+    <div id="by Joe Blogss | 1 day ago">
+        <h3>by Joe Bloggs | 1 day ago</h3>
+    </div>
+    <div id="An Insider's Guide to Thailand">
+        <h1>An Insider's Guide to Thailand</h1>
+
+        <!--Here is a photo-->
+        <img src="T.jpeg" width="400" alt="A sunset over the Thailand sea" title="A sunset over the Thailand sea">
+
+        <p><a href="https://en.wikipedia.org/wiki/Thailand">Thailand</a> can be both amazingly fun & incredibly
+            overwhelming especially if you've never been. Luckily, I'm here
+            to give you an insider's guide and make your first trip a pleasurable experience. By taking my tips and
+            tricks,
+            and following your gut you'll have an unforgettable experience!</p>
+    </div>
+    <div id="Getting Flight Tickets">
+        <h1>Getting Flight Tickets</h1>
+
+        <img src="2.jpg" width="400" alt="Boats on shore in Koh Phangan" title="Boats on shore in Koh Phangan">
+        <p>Flights to Thailand can be booked relatively inexpensively, depending on the time of year. We'd always
+            recommend
+            booking through British Airways - they fly driect from London 5 times a week!</p>
+    </div>
+    <div id="Getting Around">
+        <h1>Getting Around</h1>
+
+        <img src="3.jpg" width="400" alt="Tuk Tuks in Bangkok, Thailand" title="Tuk Tuks in Bangkok, Thailand">
+        <p>Getting around Thailand <em>isn't difficult</em>. There is a <Strong>plethora</Strong> of public transport
+            and
+            travel agents who are able
+            to provide information.</p>
+    </div>
+    <div id="Related Content">
+        <h3>Related Content</h3>
+        <ul>
+            <li> <a href="./Koh Samui.html"> Koh Samui </a> </li>
+            <li> <a href="./Koh Phangan.html">Koh Phangan </a> </li>
+            <li> <a href="./Koh Lipe.html">Koh Lipe </a> </li>
+            <li><a href="./Koh Tao.html">Koh Tao </a></li>
+        </ul>
+    </div>
+    <!--Here are contact information-->
+    <div id="Contact information">
+        <p><Strong>Email: </Strong>joe@thailandforever.com |<Strong> Phone: </Strong>01111 55555 4444 |<Strong> Address:
+            </Strong>14 Regent Street, London, NW2 3DE</p>
+
+    </div>
+</body>
+
+</html>
